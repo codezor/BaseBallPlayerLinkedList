@@ -1,0 +1,5 @@
+The input File contains the following 3 Player(s): 
+
+Aaron, Hank: RF (0.305)
+Furcal, Rafael: SS (0.281)
+Jones, Chipper: 3B (0.303)
